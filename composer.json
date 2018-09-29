@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        },
+
+        "files": [
+            "config/Bootstrap.php",
+            "config/Database.php"
+        ],
+
+        "classmap": [
+            
+        ]
+
+    }
+}
